@@ -29,7 +29,7 @@ li{
     list-style-type: none;
 }
 .header{
-    background: linear-gradient(#00000070,#00000070),url(/img/profile.jpg);
+    background: linear-gradient(#00000070,#00000070),url(/img/profile.JPG);
     height: 90%;
     width: 100vw;
     object-fit: cover;
